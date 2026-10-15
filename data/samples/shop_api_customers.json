@@ -1,0 +1,6 @@
+[
+  {"customerId": "S-2001", "customerName": "Fatima Zahra", "email_address": "fatima.z@example.com", "amount_spent": 540.2, "mobile": "+44 20 7946 0958"},
+  {"customerId": "S-2002", "customerName": "Tomás Ortega", "email_address": "tomas.ortega@example.com", "amount_spent": 89, "mobile": "+34 91 123 4567"},
+  {"customerId": "S-2003", "customerName": "Ingrid Larsen", "email_address": "ingrid.larsen@example.com", "amount_spent": "1320.00", "mobile": null},
+  {"customerId": 2004, "customerName": "Samuel Adeyemi", "email_address": "samuel.adeyemi@example.com", "amount_spent": 2750, "mobile": "+234 1 234 5678"}
+]

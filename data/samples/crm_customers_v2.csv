@@ -1,0 +1,7 @@
+customer_id,customer_name,email,total_spent,phone
+C-1006,Sofia Rossi,sofia.rossi@example.com,7200,+39 06 1234 5678
+C-1007,Arjun Mehta,arjun.mehta@example.com,unknown,+91 98765 43210
+,Grace Kim,grace.kim@example.com,860,+82 2 312 4567
+C-1008,Noah Williams,noah.w@example.com,15000,+1 415 555 0134
+C-1008,Noah Williams,noah.w@example.com,15000,+1 415 555 0134
+C-1009,Elif Demir,elif.demir@example.com, 2300 ,

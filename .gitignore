@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Local databases (recreated on startup; demo data reloads via /api/v1/demo/load)
+*.db
+*.db-journal
+*.sqlite3
+
+# Environment files (keep .env.example)
+.env
+.env.*
+!.env.example
+
+# Node / frontend
+node_modules/
+frontend/dist/
+*.tsbuildinfo
+npm-debug.log*
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+customer_id,customer_name,email,lifetime_value,phone
+C-1010,Kwame Mensah,kwame.mensah@example.com,4100,+233 30 123 4567
+C-1011,Laura Becker,laura.becker@example.com,980.25,+49 30 901820
+C-1012,Ravi Patel,ravi.patel@example.com,12500,+91 22 2345 6789
+C-1013,Ana Costa,ana.costa@example.com,0,

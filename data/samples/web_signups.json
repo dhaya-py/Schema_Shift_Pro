@@ -1,0 +1,6 @@
+[
+  {"cust_id": "W-3001", "full_name": "Chloe Martin", "email": "chloe.martin@example.com", "phone": "+33 1 23 45 67 89", "spend_band": "medium", "spend_total": "480.00"},
+  {"cust_id": "W-3002", "full_name": "Ahmed Khan", "email": "ahmed.khan@example.com", "phone": "+92 21 3456 7890", "spend_band": "low", "spend_total": "65.50"},
+  {"cust_id": "W-3003", "full_name": "Olivia Brown", "email": "olivia.brown@example.com", "phone": "+61 2 9876 5432", "spend_band": "high", "spend_total": "3150.00"},
+  {"cust_id": "W-3004", "full_name": "Mateo Garcia", "email": "mateo.garcia@example.com", "phone": "+52 55 1234 5678", "spend_band": "medium", "spend_total": "720.00"}
+]
